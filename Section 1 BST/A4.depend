@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1557036834 source:c:\users\mounir\desktop\a4\bstfci.cpp
+	<iostream>
+	"BSTFCI.h"
+
+1557037293 c:\users\mounir\desktop\a4\bstfci.h
+	<iostream>
+
+1557036839 source:c:\users\mounir\desktop\a4\main.cpp
+	<iostream>
+	"BSTFCI.h"
+
+1557049178 source:c:\users\omar\desktop\a4\main.cpp
+	<iostream>
+	"BSTFCI.h"
+	"Inxbuldr.h"
+
+1557052280 c:\users\omar\desktop\a4\bstfci.h
+	<iostream>
+
+1557047221 source:c:\users\omar\desktop\a4\inxbuldr.cpp
+	"Inxbuldr.h"
+
+1557052280 c:\users\omar\desktop\a4\inxbuldr.h
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	"BSTFCI.h"
+
